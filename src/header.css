@@ -1,0 +1,22 @@
+.container
+{
+   background-color: blanchedalmond; 
+   position: fixed;
+   top:0;
+   left: 0;
+   right: 0;
+   padding-right: 75px;
+   
+}
+li{
+    color: #000;
+    list-style: none;
+    text-decoration: none;
+}
+.items
+{
+    display: flex;
+    justify-content: flex-end;
+    gap: 25px;
+
+}
